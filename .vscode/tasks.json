@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "serve",
+			"path": "Week 3; Data Visualization/Dangerous Liaisons Data Visualization Project",
+			"problemMatcher": [],
+			"label": "npm: serve - Week 3; Data Visualization/Dangerous Liaisons Data Visualization Project",
+			"detail": "vue-cli-service serve",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}

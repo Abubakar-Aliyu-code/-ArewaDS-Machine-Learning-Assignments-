@@ -1,0 +1,25 @@
+{
+  "name": "cuisinerecommender",
+  "version": "1.0.0",
+  "description": "http-server",
+  "main": "84",
+  "scripts": {
+    "test": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abubakar-Aliyu-code/-ArewaDS-Machine-Learning-Assignments.git"
+  },
+  "keywords": [
+    "onxx"
+  ],
+  "author": "Abu Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abubakar-Aliyu-code/-ArewaDS-Machine-Learning-Assignments/issues"
+  },
+  "homepage": "https://github.com/Abubakar-Aliyu-code/-ArewaDS-Machine-Learning-Assignments#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
