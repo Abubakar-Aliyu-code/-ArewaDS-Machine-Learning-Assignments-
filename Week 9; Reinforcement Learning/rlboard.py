@@ -16,7 +16,7 @@ def clip(min,max,x):
     return x
 
 def imload(fname,size):
-    img = cv2.imread(r".C:\Users\HP\Desktop\-ArewaDS-Machine-Learning-Assignments-\Week 9; Reinforcement Learning\images\env_init.png")
+    img = cv2.imread(r".C:\Users\HP\Desktop\\-ArewaDS-Machine-Learning-Assignments-\Week 9; Reinforcement Learning\images\environment.png")
     img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
     img = cv2.resize(img,(size,size),interpolation=cv2.INTER_LANCZOS4)
     img = img / np.max(img)
